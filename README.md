@@ -7,6 +7,16 @@ This project is aimed at increasing competitiveness among students(preferably co
 
 College - Link is an android application wherein college students can register, create their profiles, add their skills, connect to other students of various fields and expand their network meanwhile forming a perfect team for their next competition! Being unaware of any upcoming event is out of the question now!
 
+### The Problem College-Link solves : 
+
+Many a times, students with skills fail to win at an event because of lack of a perfect team. Other times, they might not get to know about that event, since there are so many going on simulatenously these days! Well, worry not! This application is aimed at solving all problems related with exposure and create a perfect social environment for your college. Presenting - College Link. 
+
+Consider a hackathon you came to know about recently. You get a great idea but need people with Machine Learning and IOT skills to implement it. You go round and round asking your friends at college if they have those skills, but unfortunately, you didn't find any such friend. There's no social channel for listing a demand as "Team needed for upcoming hackathon with these skills". You give up and look forward to the next hackathon. 
+
+Well, this won't be the case if you use this app! Using this app, you can post regarding any upcoming event/hackathon/contest, choose the required skills and connect to students from your college who have those skills! Every student having the skill(s) you mentioned in your post, will receive a notification regarding your post. They can then comment on your post or start a chat with you via this app itself! 
+
+You'll also receive notifications about posts posted by other users as per your skillset. With increasing number of users, the chances of creating a perfect team will increase. Moreover, you'll stay updated with events around the globe as posted by your fellow college-mates! The problem of lack of compatible team members or being un-informed about a certain event, is no more!
+
 ### Main features of the application :
 
 - _Register/login_ using your email id and password.
