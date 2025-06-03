@@ -1,6 +1,8 @@
 # CollegeLink
 > Where students meet students and skills develop faster than ever!
 
+## Live Demo : https://www.youtube.com/watch?v=puaD4Zb_2Yo
+
 ### Introduction :
 
 This project is aimed at increasing competitiveness among students(preferably college students) by creating a platform for connecting, conversing and competing in various events held worldwide.
